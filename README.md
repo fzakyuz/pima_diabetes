@@ -1,4 +1,4 @@
-Vize Ödevi
+**Makine Öğrenmesi Vize Ödevi**
 
 Pima Indians Diabetes Dataset
 
